@@ -1,5 +1,5 @@
 # Hello, we're Arcsin Studios
-## Who are we
+## What we do
 We're an indie game studio.  
 We make lots of fun things: RPG, Platformer, etc..
 
